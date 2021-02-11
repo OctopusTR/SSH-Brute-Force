@@ -1,6 +1,10 @@
 # SSH-Brute-Force
  Simple SSH Brute Force Tool
-
+## [+] Install
+```
+git clone https://github.com/OctopusTR/SSH-Brute-Force && cd SSH-Brute-Force
+pip3 install -r requirements.txt
+```
 ## [+] Usage 
 ```python
 ┌──(root㉿octopus)-[~]
