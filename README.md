@@ -1,4 +1,4 @@
-# SSH-Brute-Force
+# SSH-Brute-Force-Tool
  Simple SSH Brute Force Tool
 ## [+] Install
 ```
