@@ -1,4 +1,4 @@
-## Usage
+## [*] Usage 
 ```python
 ┌──(root㉿octopus)-[~]
 └─# python3 sshbrute.py
