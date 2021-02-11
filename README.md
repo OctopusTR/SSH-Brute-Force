@@ -2,7 +2,7 @@
  Simple SSH Brute Force Tool
 ## [+] Install
 ```
-git clone https://github.com/OctopusTR/SSH-Brute-Force && cd SSH-Brute-Force
+git clone https://github.com/OctopusTR/SSH-Brute-Force-Tool && cd SSH-Brute-Force-Tool
 pip3 install -r requirements.txt
 ```
 ## [+] Usage 
