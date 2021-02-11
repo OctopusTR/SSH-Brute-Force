@@ -1,4 +1,7 @@
-## [*] Usage 
+# SSH-Brute-Force
+ Simple SSH Brute Force Tool
+
+## [+] Usage 
 ```python
 ┌──(root㉿octopus)-[~]
 └─# python3 sshbrute.py
