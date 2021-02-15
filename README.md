@@ -1,5 +1,10 @@
 # SSH-Brute-Force-Tool
  Simple SSH Brute Force Tool
+
+## Requirements
+paramiko==2.7.2<html><br></html>
+termcolor==1.1.0
+
 ## [+] Install
 ```
 git clone https://github.com/OctopusTR/SSH-Brute-Force-Tool && cd SSH-Brute-Force-Tool
