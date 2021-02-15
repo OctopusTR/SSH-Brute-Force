@@ -2,6 +2,7 @@
  Simple SSH Brute Force Tool
 
 ## Requirements
+Python 3.x<html><br></html>
 paramiko==2.7.2<html><br></html>
 termcolor==1.1.0
 
